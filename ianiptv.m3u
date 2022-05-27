@@ -16,3 +16,5 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-avc1_3900000=10002-mp4a_144800_spa=20000.m3u8
 #EXTINF:-1 tvg-id="ESPNExtraAmericaLatina.us" tvg-name="ESPN EXTRA ARGENTINA" tvg-logo="https://e7.pngegg.com/pngimages/798/473/png-clipart-espn-brasil-espn-extra-espn-espn-inc-grill-television-text.png" group-title="Deportes", ESPN XTRA SD
 https://edge-live12-hr.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD-avc1_3450000=10002-mp4a_144800_spa=20000.m3u8
+#EXTINF:-1 tvg-id="beINSPORTS.us" group-title="Deportes",BEIN SPORT HD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8

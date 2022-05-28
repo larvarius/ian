@@ -32,7 +32,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD-
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/340px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="Deportes",Beinsport_xtra_n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="Deportes",Beinsport_xtra
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/340px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png"group-title="Deportes",Beinsport_xtra
 https://siloh.pluto.tv/lilo/production/bein/1/master_3.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Deportes",ESPN (Op 2)
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8

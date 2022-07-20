@@ -1,31 +1,33 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Deportes SD" audio-track="Spanish", TyC SPORT
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Sports 1", TyC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Deportes SD" audio-track="Spanish", TyC SD
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Sports 1", TyC SD
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 2", ESPN 
-http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371348.ts
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN Op1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115725
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 2", ESPN SD
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN Op2 SD
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="ESPN3South.us" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 2", ESPN 3
-http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/26578.ts
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31814
 
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 2", Fox Sports SD
+#EXTINF:-1 tvg-id="ESPN3South.us" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", ESPN 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31815
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", Fox Sports 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26531
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="Sports 1", Fox Sports SD
 http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" group-title="Deportes SD", DIRECTV SPORTS SD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W_400x400.jpg" group-title="Sports 1", DIRECTV SPORTS SD
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Sports 2",  ESPN Premium
-http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/371364.ts
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="Sports 1",  ESPN Premium
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233836
 
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 2", TNT Sports SD
-http://titanicos.net:8080/trading131sdRes/EREPQGarev/233835
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN Ñ" tvg-logo="https://e.rpp-noticias.io/medium/2020/03/04/555555_909098.png" group-title="Sports 2",BEIN Ñ
-http://titanicos.net:8080/live/trading131sdRes/EREPQGarev/232231.ts
-
+#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1539965798529130498/3F1yzhSX_400x400.png" group-title="Sports 1", TNT Sports SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233835

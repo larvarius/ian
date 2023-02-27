@@ -33,7 +33,7 @@ https://mvk@is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_499712=24-spa=27.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" group="Sports 1" logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16525_dark_360w_270h.png", TV PUBLICA
-https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
 
 #EXTINF:-1 tvg-id="Vamos" group="Sports 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M+ VAMOS SD
 http://fenz668.top:80/live/pdd4800/vndjspd4t/229.ts
@@ -41,6 +41,9 @@ http://fenz668.top:80/live/pdd4800/vndjspd4t/229.ts
 #EXTINF:-1 tvg-id="Vamos" group="Sports 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M+ VAMOS SD Op2
 http://line.danoli101.com:8080/live/Pedro1/123456/4924.ts
 
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" group-title="NACIONALES", AMERICA HD  36.1
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" group-title="NACIONALES", AMERICA HD  
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_9.jpg" group-title="NACIONALES", CANAL 9 
+https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 

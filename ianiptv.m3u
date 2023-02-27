@@ -1,0 +1,98 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/c767dc0905ee282c6ea1b565625e7ca7.png" group-title="", CITY SPORTS TV
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="", TyC HD
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="", TyC SD
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_2.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="", ESPN
+http://181.78.4.186:8000/play/a0ex/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="", ESPN Op2
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/22101.ts
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="", ESPN 2
+http://181.78.4.186:8000/play/a0el/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="", Fox Sports
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/22098.ts
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="", ESPN PREMIUM
+http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="", TNT SPORTS HD
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/132285
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_sports-mediano.png" group-title="", TNT SPORTS HD Op2
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/1119917.ts
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="", DIRECTV SPORTS
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234324
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/612.png" group-title="", DIRECTV SPORTS 2
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234327
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1613.png" group-title="", DIRECTV SPORTS +
+http://streamingprotv.com:8000/iptvkingpremiumultrax/Ig9L0fKOP2/234329
+
+#EXTINF:-1 tvg-id="Vamos" group="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", M+ VAMOS SD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/229.ts
+
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="",TELEDEPORTE SD
+http://fenz668.top:80/live/pdd4800/vndjspd4t/263.ts
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/AMERICA.png" group-title="", AMERICA HD
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/1116289.ts
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_9.jpg" group-title="", CANAL 9
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/telefe.jpg" group-title="", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/telefe.jpg" group-title="", TELEFE Op2
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/1116299.ts
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_13.jpg" group-title="", CANAL 13 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CANAL_13.jpg" group-title="", CANAL 13 Op2
+http://moontools.me:8080/live/paris15/dLAPRFjE2P/22105.ts
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/CRONICA_HD.png" group-title="", CRONICA HD 
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/A_24.jpg" group-title="", A24 
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/TODO_NOTICIAS.jpg" group-title="", TN 
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/TODO_NOTICIAS.jpg" group-title="", TN Op2
+http://moontools.me:8080/paris15/dLAPRFjE2P/22082
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/ssiptvarg/main/logos/C5N.jpg" group-title="", C5N  
+http://tvstarlife.com:25461/live/geovany/geovany/283.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

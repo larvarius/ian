@@ -10,10 +10,10 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="", ESPN
-http://181.78.4.186:8000/play/a0ex/index.m3u8
+http://allstar.is-by.us:25461/live/CELIAPLAN/DS23Xum3dh/73326.ts
 
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://pbs.twimg.com/profile_images/1318042243165544448/j4NC8cmk_400x400.png" group-title="", ESPN Op2
-http://moontools.me:8080/live/paris15/dLAPRFjE2P/22101.ts
+
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="", ESPN 2
 http://181.78.4.186:8000/play/a0el/index.m3u8

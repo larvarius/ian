@@ -34,6 +34,8 @@ https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="Argentina", TN Op2
 https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 
+#EXTINF:-1 group-title="Argentina", CO: CARACOL
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
 
 
 

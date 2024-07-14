@@ -42,6 +42,9 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Sports", TyC SPORT 
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
 
+#EXTINF:-1 tvg-id="Directv" tvg-logo="" group-title="Sports", Direct TV
+http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86116&extension=ts
+
 #EXTINF:-1 tvg-id="Espn" tvg-logo="" group-title="Sports", Espn
 http://181.78.105.146:2000/play/a064/index.m3u8
 

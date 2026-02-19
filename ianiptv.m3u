@@ -1,215 +1,40 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml"
+
+#EXTINF:-1 xui-id="8116" tvg-id="TYC" tvg-name="TyC Sports" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQcWjAwaO0yQ7KNvBoekXqGSoFNEc0nUYrTRLC3xUBqJNA.png" group-title="DEPORTES",TyC Sports
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF9pEw72dMfKdqRxk9uYKKgQ/m3u8
+
+#EXTINF:-1 xui-id="284603" tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEFy2z9MfcCm-OHyvRx25YPaQ/m3u8
+#EXTINF:-1 xui-id="108631" tvg-id="ESPN.ar" tvg-name="ESPN Arg" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh78wzQ-aeVEuMfXnuZ3ScdzZRkun7281vOweLTe3QAkmKw.png" group-title="DEPORTES",ESPN HD Op2
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEFw0kiEQZgbbfALEARhQsuxU/m3u8
+#EXTINF:-1 xui-id="3713" tvg-id="ESPN.ar" tvg-name="ESPN Sur HD" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh78wzQ-aeVEuMfXnuZ3ScdzZRkun7281vOweLTe3QAkmKw.png" group-title="DEPORTES",ESPN HD Op3
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF7DFu0FJqWmsS3pNEFy4siQ/m3u8
+
+#EXTINF:-1 xui-id="3483" tvg-id="" tvg-name="DSPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="DEPORTES",DSPORTS
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF9wqIbwwOnhV6k0i6TysJWY/m3u8
+#EXTINF:-1 xui-id="3484" tvg-id="" tvg-name="DSPORTS 2" tvg-logo="http://cdn-abc.xyz:2086/images/qcSXhPthTapOWllvZLj0cist7aGnVQ26-ShA-8LvDWqAvJxVxArhC3wjE4TRVdS3f_e_bh9HSSf81Dg_E48FPqiOU8-Nv87DLn0qmM-kmY98EsETjKFfYeTiOca6rhFxQbt9dKN0rIoZA-iqSX3nI3AojoYOzVIZaVinYncIgzs.png" group-title="DEPORTES",DSPORTS 2
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF3v0X252FGY4NGsZSyYtvdY/m3u8
+#EXTINF:-1 xui-id="3485" tvg-id="" tvg-name="DSPORTS +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1748761710537" group-title="DEPORTES",DSPORTS +
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF09H0jfGVq9w_V5BqcZDW_I/m3u8
+
+#EXTINF:-1 xui-id="160136" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN PREMIUM ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz4w2o2VRNdsVNwHmh94fR4xPvT3sf1upLUNU6BL84E-g.png" group-title="DEPORTES",ESPN PREMIUM ARG
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF-uiZkgtlPAohiQomKFqnyE/m3u8
+#EXTINF:-1 xui-id="3368" tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_%28white_and_red%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="DEPORTES",ESPN Premium Op2
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF7IEdbDL8Oume0jjPVHJ83I/m3u8
+
+#EXTINF:-1 xui-id="8088" tvg-id="TNT Sports.ar" tvg-name="TNT SPORTS" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF_WN2iYJRWQtTx3NsHB4yvc/m3u8
 
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1539189684961546240/MZ5SxpyR_400x400.jpg" group-title="Argentina", CANAL 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="Argentina", TODO NOTICIAS  
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", TELEFE
-http://168.197.196.98:9981/stream/channelid/581244389?profile=pass&checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina", TELEFE op2
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
-
-#EXTINF:-1 group-title="Aire" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Caracol_Televisi%C3%B3n_logo.svg" tvg-id="", Caracol TV
-http://190.61.43.118:45000/play/a02v#checkedby:alliptvlinks.com
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1506356427228655625/Vym1HGRy_400x400.jpg" group-title="Argentina", C5N
-https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Argentina", Cronica
-https://ythls.onrender.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" group-title="Argentina", CANAL 13 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1458611383570993154/J-uHPy2t_400x400.jpg" group-title="Argentina", TV PUBLICA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-
-#EXTINF:-1 tvg-id="El Nueve HD" tvg-name="El Nueve HD" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png" group-title="Argentina",El Nueve HD
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/a24@2x.png" group-title="Argentina" , A24 
-https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Argentina", LN+  
-https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
-
-#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg" group-title="Argentina", TN Op2
-https://ythls.onrender.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
-
-#EXTINF:-1 group-title="Argentina", CO: CARACOL
-http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141 
-
-
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="Sports", TyC SPORT 
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=100785&extension=ts
-
-#EXTINF:-1 tvg-id="Directv" tvg-logo="" group-title="Sports", Direct TV
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86116&extension=ts
-#EXTINF:-1 tvg-id="Directv" tvg-logo="" group-title="Sports", Direct TV op2
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86116&extension=m3u8
-#EXTINF:-1 tvg-id="Directv" tvg-logo="" group-title="Sports", Direct TV op3
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86118&extension=ts
-#EXTINF:-1 tvg-id="Directv" tvg-logo="" group-title="Sports", Direct TV op4
-http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86118&extension=m3u8
-
-#EXTINF:-1 tvg-id="Espn" tvg-logo="" group-title="Sports", Espn
-http://181.78.105.146:2000/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-id="Espn" tvg-logo="" group-title="Sports", Espn op2
-http://200.60.124.19:29000/play/a016/index.m3u8
-
-#EXTINF:-1 tvg-id="Espn" tvg-logo="" group-title="Sports", Espn op3
-http://181.78.8.90:16123/play/ch16
-
-#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="Sports", La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="La 1" tvg-logo="" group-title="Sports", La 1 op2
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634" group-title="Sports",bein Sports Xtra
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DEPORTV" tvg-name="DEPORTV" tvg-logo="https://camo.githubusercontent.com/4d5c3b33e1d6752ebb4d2d14f37ebe696ef67e4e1e163aaace6fa28eae4f61e6/68747470733a2f2f692e696d6775722e636f6d2f6979594c4e52742e706e68" group-title="Sports",DEPORTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 02
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 03
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 04
-https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 05
-https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 06
-https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 07
-https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 08
-https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 09
-https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest/scale-to-width-down/450?cb=20200824001045&path-prefix=es" group-title="Sports",TyC Sport Play 10
-https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="CH;FR" tvg-language="Russian" tvg-logo="https://i.imgur.com/TOuwYHt.png" group-title="Music",Clubbing TV (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
-#EXTINF:-1 group-title="Music" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
-https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="600ad4ad6537680007be2ea6" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Music",Clubbing TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 group-title="Music" tvg-id="CLUBHD.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Clubbing-TV.png",Clubbing TV
-https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kwNzDIMaznE/X4zsN9QKPRI/AAAAAAAA7G8/u-YAQsKZk0UkRMI7Y1nAIeRWnBCexoBxwCLcBGAsYHQ/w200-h200/muchla-2018.png" group-title="Music", MUCH MUSIC
-https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Logo_La100_Verde.JPG/225px-Logo_La100_Verde.JPG" group-title="Radio",La 100
-https://ythls.onrender.com/channel/UC2zO2jZCDplwm8SVsXUcxCQ.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cadena_3.png/800px-Cadena_3.png" group-title="Radio",Cadena 3
-https://ythls.onrender.com/channel/UCNxohbqfDp8YxW_Mji2XMHA.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Radio_Continental_AM_590_%282015%29.png" group-title="Radio",Continental AM590
-https://ythls.onrender.com/channel/UC7fedBVCaVPhMNI_axwg69w.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/512px-Logo_Mitre_SA.svg.png" group-title="Radio",Mitre AM790
-https://ythls.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/512px-Logo_Mitre_SA.svg.png" group-title="Radio",Rock and Pop
-https://ythls.onrender.com/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vorterix.jpg/225px-Vorterix.jpg" group-title="Radio",Vorterix
-https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/52/9a/529aa74bf61b709c7058b82ce7d14e31.jpg" group-title="Radio",La Mitre
-https://musicsrc.cvattv.com.ar/RMIT
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/bb/e6/bbe63d38a224e022ba1c8be044903a45.jpg" group-title="Radio",Radio 10
-http://radio10.stweb.tv/radio10/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/52/9a/529aa74bf61b709c7058b82ce7d14e31.jpg" group-title="Radio",Radio Continental
-http://21933.live.streamtheworld.com:80/CONTINENTALAAC_SC
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/72/e8/72e8dcfa29f0bcec8c1c8043a2b38c97.jpg" group-title="Radio",Radio Nacional
-http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a5/44/a544bf042a96e4381988a187dce3e200.jpg" group-title="Radio",Rivadavia
-http://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIA.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/71/7c/717cdd10ed46d8de58e14399ab33d720.jpg" group-title="Radio",La Red
-http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ec/04/ec042d42aa5c7da87452fa69122dbf42.jpg" group-title="Radio",Colonia AM550
-http://playerservices.streamtheworld.com/api/livestream-redirect/COLONIA.mp3
-#EXTINF:-1 tvg-logo="" group-title="Radio", 90's Internacional
-https://musicsrc.cvattv.com.ar/RM04
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/94/59/94594833f1c1376d6c735e690a51bfc7.jpg" group-title="Radio",Rock and Pop
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/0a/8b/0a8b57912d421f0dee43806e8ad1eeef.jpg" group-title="Radio",Vorterix 
-https://radiolatina.live:10992/;;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/15/0a/150a3494e22b2d825554feb104c3d470.jpg" group-title="Radio",Metro 95.1
-http://21933.live.streamtheworld.com:80/METRO_SC
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/30/3f/303f0ad34f4da360e951790d414f9215.jpg" group-title="Radio",Berlin 107.9
-https://s8.stweb.tv/berlin/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Logo_La100_Verde.JPG/225px-Logo_La100_Verde.JPG" group-title="Radio",La 100
-http://buecrplb01.cienradios.com.ar/la100.aac
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/36/3b/363bc6a2442f5dc9b698fadc96c08988.jpg" group-title="Radio",Los 40 FM 105.5
-http://21933.live.streamtheworld.com:80/LOS40_ARGENTINAAAC_SC
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2c/b5/2cb51bd62d15e8f42939cb03621f7408.jpg" group-title="Radio", Vale FM97.5
-https://s6.stweb.tv/vale/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/73/00/73002cc4192ea46f019b848e0f9b056d.jpg" group-title="Radio",Aspen
-https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/4e/6c/4e6cf6d9e5f641195f045aede7a82358.jpg" group-title="Radio",CNN Radio
-http://3.16.79.190:8000/stream
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/20/b5/20b5e1783c017957eb6399859b6e423a.jpg" group-title="Radio",Radio Disney
-http://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA.mp3
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a2/26/a226df35ada0ba362a27f9cd031b3855.jpg" group-title="Radio",Radio Latina 101
-http://streaming.latina101.com.ar:9000/Repetidoras
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d6/05/d605a8be9e9da5306bd5e5bb7a4e5317.jpg" group-title="Radio",Radio Pop 101.5
-https://ny2.stweb.tv/popradio/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/2f/19/2f195d33d045b142d172fbf6fadb322a.jpg" group-title="Radio",Mega 98.3
-https://mega.stweb.tv/mega983/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/5c/2f/5c2fc94854d61b83d56ccd6aa0857442.jpg" group-title="Radio",One 103.7
-http://s8.stweb.tv/one/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/71/a3/71a34de80e28d54014c6385bec1e9ab6.jpg" group-title="Radio",Delta 90.3
-http://cdn.instream.audio:9069/stream
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/c3/a9/c3a9a40b04ab8705cb8b4cb88a7cc40f.jpg" group-title="Radio",NRJ DJ
-https://usa19.fastcast4u.com/capof/;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/a1/18/a118d2379aca43c036131b659a1e2505.jpg" group-title="Radio",Fresh FM (Mardel)
-https://streaming.escuchanosonline.com:7011/stream.mp3/;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d3/16/d316ec6417fdbee70e7693bb5f94f9d8.jpg" group-title="Radio",La X (Bogota)
-http://s5.radio.co/s980fc5249/listen
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/3a/b5/3ab5ed3f9b888a170cd8f0a359fc28c7.jpg" group-title="Radio",Frisky
-http://stream2.friskyradio.com/frisky_mp3_hi/;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/11/a8/11a8106a7b5d0f7ef3aa3f52628cca76.jpg" group-title="Radio",Ibiza Global Radio
-http://ibizaglobalradio.streaming-pro.com:8024/;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/90/3e/903e3392a614306fc4cd1f738bcff7b5.jpg" group-title="Radio",Ibiza Sonica
-http://94.75.227.133:7005/;;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/30/9f/309ff6eba2aedd984750b186333e8d1d.jpg" group-title="Radio",Deep House Lounge
-http://198.15.94.34:8006/stream/;
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/17/59/1759fc8c82abe1e989d1648c28bb8624.jpg" group-title="Radio",Ibiza Live Radio
-http://streams.radio.co:80/sdc9cfaf77/listen
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/11/72/11725f6d07280f6345258fbb4e574e67.jpg" group-title="Radio",Deep House Radio
-http://37.187.93.104:8589/deep
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/0f/da/0fda30893b535ba028fb166608ecb40c.jpg" group-title="Radio",The One (Marbella)
-http://i9.streams.ovh:19112/stream
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b9/22/b922e06029c1dc2ce368e74373873918.jpg" group-title="Radio",101.RU House
-https://pub0201.101.ru/stream/trust/mp3/128/10
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/89/3c/893c151ac4710c568863c896c77ecb1a.jpg" group-title="Radio",Garage FM (Rusia)
-http://213.189.208.146:8005/Garagefm192
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537439972.jpg" group-title="Radio",KISSFM Deep - Kiev
-http://online.kissfm.ua/KissFM_Deep
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403737255.png" group-title="Radio",MoveDaHouse 
-http://212.71.250.12:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="Radio",DIRadio Impulse House
-http://orion.shoutca.st:8986/stream/1/
-
+#EXTINF:-1 xui-id="160132" tvg-id="ESPN 2.ar" tvg-name="ESPN 2 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jX4S6rNSQCfigTn_e9CgAUA7SBAKJSSbORKUmo8aK59TCY0ga2WiJnzCloQZW24uNw.png" group-title="DEPORTES",ESPN 2 ARG
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF-DV8oqwd0hJ756DzzcNI3Y/m3u8
+#EXTINF:-1 xui-id="160133" tvg-id="ESPN 3.ar" tvg-name="ESPN 3 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jenT97NTB7etohlelnfPd_IeY4UN2Fh9HUucvRBCBh1UMGrojkG5fSjPb8tWFLrm4Q.png" group-title="DEPORTES",ESPN 3 ARG
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEFyEV4TXZuwqnHqbswW7LD4w/m3u8
+#EXTINF:-1 xui-id="160134" tvg-id="ESPN 4.ar" tvg-name="ESPN 4 ARG" tvg-logo="http://cdn-abc.xyz:2086/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh78wzQ-aeVEuMfXnuZ3ScdzZRkun7281vOweLTe3QAkmKw.png" group-title="DEPORTES",ESPN 4 ARG
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF6LAZzraKASwFqj2z3qZrls/m3u8
+#EXTINF:-1 xui-id="3712" tvg-id="" tvg-name="ESPN 5HD" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/scale-to-width-down/1200?cb=20240217221020&path-prefix=pt-br" group-title="DEPORTES",ESPN 5HD
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEF74j56CZWn-Ghpop3wKIs-Q/m3u8
+#EXTINF:-1 xui-id="112610" tvg-id="ESPN 4.ar" tvg-name="ESPN 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsgJEEP_VopjfJSYeu1qMUwrRj_lFC3_evyg&s" group-title="DEPORTES",ESPN 7
+http://cdn-abc.xyz:2086/play/zPc7uL1sMfSx9rtcvFYEFxa2S_vdLZDiS23kwbF-v6w/m3u8
 
 

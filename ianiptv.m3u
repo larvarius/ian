@@ -1,5 +1,7 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
 
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="" group-title="Cam",Camara 1
+rtsp://admin:ASDF1234@192.168.101.8:554/h264Preview_01_main
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op1 (1080)
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TyC Sports Op1 (720)
@@ -89,3 +91,4 @@ https://g4.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 
 #EXTINF:-1 tvg-id="1470" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png" group-title="ARGENTINA", La 100 | AR
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+

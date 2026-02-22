@@ -3,4 +3,7 @@
 #EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
 https://kh5vy.envivoslatam.org:443/hotflix/espn/index.m3u8
 
+#EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op2
+https://n10.sanwalyaarpya.com:1686/hls/espn1hd.m3u8
+
 

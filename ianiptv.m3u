@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
 
 #EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
-https://kh5vy.envivoslatam.org:443/hotflix/espn/index.m3u8?token=b3769b4b3d42ebe4af2e6ed349361b0f8dfe9e91-af-1771800036-1771746036&ip=45.179.74.55
+https://kh5vy.envivoslatam.org:443/hotflix/espn/index.m3u8
+
 

@@ -1,9 +1,10 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina4.xml", "https://epg.programadorx.cl/mdiaz/gratis.xml", "https://www.open-epg.com/files/argentina7.xml"
 
 #EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op1
-https://kh5vy.envivoslatam.org:443/hotflix/espn/index.m3u8
+https://xky9q.envivoslatam.org:443/hotflix/espn/index.m3u8?token=ad19d8c8816c6c09022a07f561889710415830f0-51-1771801231-1771747231&ip=45.179.74.55
 
-#EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",ESPN HD Op2
-https://n10.sanwalyaarpya.com:1686/hls/espn1hd.m3u8
+#EXTINF:-1 xui-id="284603" tvg-id="ESPN 2.ar" tvg-name="ESPN HD" tvg-logo="http://cdn-abc.xyz:2086/images/EbDaVYPoJTd1DFFXD4-lVpaEofnF7qFe6TVWhYlJ_5UanmAvgiu0XqZUEEaoQr3BgH11mHHeagwaAcAbXUU6iw.png" group-title="DEPORTES",DSport HD Op2
+https://mze7u.envivoslatam.org:443/hotflix/dsports/index.m3u8?token=6134aa980488ef323dfb15c2faf519b6f950d066-fb-1771801980-1771747980&ip=45.179.74.55
+
 
 
